@@ -1,4 +1,4 @@
-# AN-EFFICIENT-MULTI-GRID-ALGORITHM-FOR-THE-TV-MINIMIZATION-PROBLEMS
+# An-Efficient-Multi-grid-Algorithm-For-The-TV-Minimization-Problems
 Please cite this paper if you use this code in your work. Thank you! =============================================================
 
 @article{zhang2021efficient,
